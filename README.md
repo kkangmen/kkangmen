@@ -103,11 +103,4 @@ PM · 디자이너 · iOS · Android 와 함께 이틀 만에 앱 하나를 완�
 
 ---
 
-<div align="center">
-
-![kkangmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkangmen&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkangmen&layout=compact&hide_border=true&theme=default)
-
-</div>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkangmen)](https://solved.ac/kkangmen/)
