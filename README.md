@@ -66,7 +66,7 @@
 
 ### [JUBY](https://github.com/JUBYInvest/JUBY-BE) &nbsp;·&nbsp; 주식 초보자를 위한 AI 투자 비서
 
-`2026.03 ~ 진행중` &nbsp;|&nbsp; Backend 2명 &nbsp;|&nbsp; [배포](https://[juby-fe.vercel.app](https://juby-fe.vercel.app/))
+`2026.03 ~ 진행중` &nbsp;|&nbsp; Backend 2명 &nbsp;|&nbsp; [배포](https://juby-fe.vercel.app/)
 
 | | |
 |---|---|
